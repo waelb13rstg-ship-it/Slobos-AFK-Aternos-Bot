@@ -1,13 +1,38 @@
 {
-  "ip": "METAmc1.aternos.me",
-  "port": 26509,
-  "username": "Slobos",
-  "version": "1.21.11",
-  "offline": true,
-  "auto-reconnect": true,
-  "auto-reconnect-delay": 5000,
-  "anti-afk": true,
+  "bot-account": {
+    "username": "Globosc",
+    "type": "offline"
+  },
+  "server": {
+    "ip": "METAmc1.aternos.me:26509",
+    "port": 26509,
+    "version": false
+  },
+  "utils": {
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 5000,
+    "auto-auth": {
+      "enabled": false
+    },
+    "anti-afk": {
+      "enabled": true,
+      "config": {
+        "rotate": true,
+        "sneak": true
+      }
+    },
+    "chat-messages": {
+      "enabled": false
+    },
+    "auto-eat": {
+      "enabled": true
+    }
+  },
   "position": {
-    "enabled": true
-  }
+    "enabled": false
+  },
+  "actions": {
+    "action": "none"
+  },
+  "chat-log": true
 }
