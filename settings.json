@@ -2,9 +2,11 @@
   "ip": "METAmc1.aternos.me",
   "port": 26509,
   "username": "Slobos",
-  "version": "1.21.11",
+  "version": "1.20.1",
   "offline": true,
-  "try-creative": false,
+  "auto-reconnect": true,
+  "auto-reconnect-delay": 5000,
+  "anti-afk": true,
   "position": {
     "enabled": true
   }
