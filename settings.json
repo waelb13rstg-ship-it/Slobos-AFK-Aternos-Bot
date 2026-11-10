@@ -6,7 +6,7 @@
   "server": {
     "ip": "METAmc1.aternos.me",
     "port": 26509,
-    "version": false
+    "version": "1.21.11",
   },
   "utils": {
     "auto-reconnect": true,
