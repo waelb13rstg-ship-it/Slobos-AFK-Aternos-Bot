@@ -1,30 +1,20 @@
 {
-  "ip": "METAmc1.aternos.me",
-  "port": 26509,
-  "host": "METAmc1.aternos.me",
-  "name": "Globosc",
-  "username": "Globosc122",
-  "version": "1.21.1",
-  "auth": "offline",
-  "server": {
-    "ip": "METAmc1.aternos.me",
-    "port": 26509,
-    "host": "METAmc1.aternos.me"
-  },
   "bot": {
     "username": "Globosc",
-    "name": "Globosc",
-    "version": "1.21.11",
-    "auth": "offline"
+    "host": "METAmc1.aternos.me",
+    "port": 26509
+  },
+  "server": {
+    "ip": "METAmc1.aternos.me",
+    "port": 26509
   },
   "utils": {
     "auto-reconnect-delay": 3000,
-    "max-reconnect-delay": 30000,
-    "chat-log": true,
-    "auto-reconnect": true
-  },
-  "settings": {
-    "auto-reconnect-delay": 3000,
     "max-reconnect-delay": 30000
-  }
+  },
+  "ip": "METAmc1.aternos.me",
+  "port": 26509,
+  "username": "Globosc",
+  "host": "METAmc1.aternos.me",
+  "name": "Globosc"
 }
