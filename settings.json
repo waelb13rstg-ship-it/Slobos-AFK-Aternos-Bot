@@ -4,7 +4,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "METAmc1.aternos.me:26509",
+    "ip": "METAmc1.aternos.me",
     "port": 26509,
     "version": false
   },
