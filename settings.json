@@ -1,7 +1,7 @@
 {
-  "host": "METAmc1.aternos.me",
+  "ip": "METAmc1.aternos.me",
   "port": 26509,
-  "username": "Globosc",
+  "name": "Globosc",
   "auth": "offline",
   "version": "1.21.11",
   "utils": {
